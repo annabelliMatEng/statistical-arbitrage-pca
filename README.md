@@ -2,9 +2,6 @@
 
 A systematic, market-neutral statistical arbitrage strategy on Euro Stoxx 50 constituents, built from scratch in Python. The strategy follows Avellaneda & Lee (2008), *"Statistical Arbitrage in the U.S. Equities Market"*: PCA-based factor models isolate idiosyncratic residuals, which are modeled as Ornstein-Uhlenbeck mean-reverting processes and traded via a modified s-score signal.
 
-Developed as part of the **Financial Engineering** course (Buy Side track) at Politecnico di Milano.
-
-**Authors:** Fabio Barile, Domenico Barone, Riccardo Baudone, Anna Belli
 
 ## Overview
 
