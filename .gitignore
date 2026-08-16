@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+
+# Third-party copyrighted material, not for redistribution
+Statistical Arbitrage in the U.S. Equities Market.pdf
+
+# Licensed market data (Refinitiv/LSEG feed), not redistributable publicly
+data/sx5e_underlyings.csv
+data/volume.csv
